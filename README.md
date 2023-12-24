@@ -11,6 +11,9 @@
 - RESTful API
 - Docker
 - Nginx
+- Gunicorn
+- Unitest
+- Postman
 - Git
 
 **🚀 Опыт работы:**
